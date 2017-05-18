@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BoxPlatform-Photo-Tagger-Android</string>
+    <string name="app_user_id">App User ID:</string>
+    <string name="button_text_upload">Upload Photos</string>
+    <string name="label_app_user_id">App User ID:</string>
+    <string name="label_app_user_name">App User Name:</string>
+    <string name="user_image">User Image</string>
+    <string name="button_get_image">Choose Photo</string>
+    <string name="button_take_photo">Take Photo</string>
+    <string name="button_upload_to_box">Upload to Box</string>
+    <string name="label_enter_search_term">Enter Search Term Below:</string>
+    <string name="button_text_search">Search Photos</string>
+</resources>
